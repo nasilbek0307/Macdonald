@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    height: auto;
+    background: #FFFFFF;
+}
+.box {
+    display: flex;
+    width: 1350px;
+    height: 747px;
+    top: 747px;
+    left: 1440px;
+    opacity: 0.10000000149011612px;
+    background: linear-gradient(-5deg, transparent 20%, #c2beb8 20% 100%);
+}
+.img {
+    width: 350px;
+    height: 350px;
+    margin-top: 180px;
+    margin-left: 165px;
+}
+.text {
+    width: 152px;
+    height: 152px;
+    flex-shrink: 0;
+    margin-top: 421px;
+    margin-left: -100px;
+}
+.name {
+    width: 635px;
+    height: 24px;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-family: PT Sans Narrow;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #9E8C6C;
+}
+.name h1 {
+    width: 635px;
+    height: 224px;
+    font-family: Playfair Display;
+    font-size: 126px;
+    font-weight: 900;
+    line-height: 112px;
+    letter-spacing: -2.1724138259887695px;
+    text-align: left;
+    color: #000000;
+}
+button {
+    color: #ffffff;
+    width: 225px;
+    height: 60px;
+    padding: 13px;
+    background: #0699A6;
+    text-align: center;
+    border: #0699A6;
+}
+.a {
+    font-family: PT Sans Narrow;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.box-1 {
+    width: 220px;
+    height: 1559px;
+    margin-top: 100px;
+    margin-left: 165px;
+    gap: 100px
+}
+.text-1 h3 {
+    color: #9E8C6C;
+}
+.text-2 h3 {
+    color: #9E8C6C;
+}
+.text-3 h3 {
+    color: #9E8C6C;
+}
+.text-4 h3 {
+    color: #9E8C6C;
+}
+.text-5 h3 {
+    color: #9E8C6C;
+}
+.text-3 {
+    width: 350px;
+    height: 204px;
+    margin-top: 100px;
+    gap: 10px;
+}
+.text-2 p {
+    font-family: PT Sans Narrow;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #000000;
+}
+.text-3 p {
+    font-family: PT Sans Narrow;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #000000;
+}
+.text-4 {
+    width: 250px;
+    height: 544px;
+    margin-top: 100px;
+    gap: 10px;
+}
+.text-4 p {
+    font-family: PT Sans Narrow;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #000000;
+}
+.text-5 {
+    font-family: Lucida Grande;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-family: PT Sans Narrow;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #0699A6;
+}
+.blok {
+    width: 71px;
+    height: 10px;
+    background: #0699A6;
+}
+.container {
+    display: flex;
+    gap: 30px;
+}
+.box-2 {
+    width: 600px;
+    height: 1559px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.text-6 {
+    width: 600px;
+    height: 326px;
+    gap: 80px
+}
+.text-7 {
+    width: 600px;
+    height: 232px;
+    gap: 16px;
+    margin-top: 100px;
+}
+.text-8 {
+    width: 600px;
+    height: 170px;
+    gap: 10px;
+}
+.text-9 {
+    width: 600px;
+    height: 170px;
+    gap: 10px
+}
+.text-10 {
+    width: 600px;
+    height: 170px;
+    gap: 70px
+}
+.fon {
+    display: flex;
+    gap: 100px;
+}
+.box-2 h3 {
+    font-family: PT Sans Narrow;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #9E8C6C;
+}
+.box-3 {
+    width: 1440px;
+    height: 547px;
+    background: linear-gradient(-185deg, transparent 20%, #c2beb8 -26% 100%);
+}
+.footer {
+    width: 793px;
+    height: 258.8215026855469px;
+    margin-top: 200px;
+    margin-left: 324px;
+    text-align: center;
+    align-items: center;
+}
+.footer h3 {
+    width: 540px;
+    height: 82px;
+    top: 2653px;
+    left: 450px;
+    font-family: Playfair Display;
+    font-size: 66px;
+    font-weight: 900;
+    line-height: 82px;
+    letter-spacing: -1.137930989265442px;
+    text-align: center;
+    color: #000000;
+}
+.footer h1 {
+    width: 793px;
+    height: 46px;
+    top: 2775px;
+    margin-left: -100px;
+    font-family: Playfair Display;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #0699A6;
+}
+.social-networks {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-left: -200px;
+}
